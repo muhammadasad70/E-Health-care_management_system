@@ -1,0 +1,60 @@
+1
+Cardiologist----
+Dr Junaid Zafar (MBBS,FCPS( Cardiology),MCPS(Medicine),FESC)
+Timing : 6:00pm - 10:00pm
+Doctor Id : 10
+----
+2
+Ent Specialist----
+Dr Muhammad Riaz Chaudhry (Education : MBBS,FCPS)
+Timing : 3:00pm - 8:00pm
+Doctor Id : 20
+----
+3
+Medical Specialist----
+Dr Quratul Ain Tahira (Education : MBBS, FCPS (Medicine))
+Time : 6:00pm - 10:00pm
+Doctor Id : 30
+----
+4
+Neurologist----
+Dr Faheem Saeed (MBBS,FCPS(Neurology))
+Timing : 10:00am - 3:00pm
+Doctor Id : 40
+----
+5
+Orthopedic Surgeon----
+Dr Tariq Sohail (Education : MBBS ,MSc (Orthopedic Surgery))
+Timing : 9:00am - 2:00pm
+Doctor Id : 50
+----
+6
+Pulmonologist----
+Dr Sarwar Chaudhry (MBBS, FRACP (Pulmonology))
+Timing : 11:00am - 2:00pm
+Doctor Id : 60
+----
+7
+Eyes Specialist------
+Dr Akram Dorani (MBBS,FCPS (Eyes Operation/Surgery)
+Timing : 06:00pm - 09:00pm
+Doctor Id : 70
+----
+8
+Boon Specialist-----
+Dr Anam Tahir Chaudhry (MBBS,FCPS(Boon Surgery))
+Timing : 12:00pm-04:00pm
+Doctor Id : 80
+----
+9
+KIdney Specialist-----
+Dr Mohsin Rana( MBBS,FCPS )
+Timing : 03:00pm-06:00
+Doctor_Id : 90
+----
+10
+Surgoen-----
+Dr Abdullah Tariq( MBBS,FCPS(Surgey,opration) )
+Timing : 07:00pm-09:00pm
+Doctor_Id : 10
+----
